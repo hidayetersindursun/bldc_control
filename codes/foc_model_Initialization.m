@@ -5,7 +5,7 @@ clc;
 %% PMSM parameters
 Ld = 330e-6; % def. :1.7e-3
 Lq = 330e-6; % def. : 3.2e-3
-La = 0.001; % ??
+La = 330e-6; % ??
 Rs = 0.74; % default : 0.02
 Lambda_m = 0.2205;
 Polepairs = 7; %default : 4
