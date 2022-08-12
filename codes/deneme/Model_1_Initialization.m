@@ -7,7 +7,7 @@ Ld = 1.7e-3;
 Lq = 3.2e-3;
 Rs = 0.02;
 Lambda_m = 0.2205;
-Polepairs = 7;
+Polepairs = 4;
 
 %% Controller parameters
 Iq_reference = 100;
