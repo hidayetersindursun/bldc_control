@@ -26,8 +26,8 @@ Gain_P = 0.1;
 Gain_I = 10; 
 Gain_Windup = 1000;
 
-Speed_Gain_P = 0.1;
-Speed_Gain_I = 0.1;
+Speed_Gain_P = 10;
+Speed_Gain_I = 0.2;
 
 %Pmax = 2.827433388230814e+03;
 %Tmax = 27;
