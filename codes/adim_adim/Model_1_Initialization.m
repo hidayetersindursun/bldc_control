@@ -4,15 +4,15 @@ bdclose all;
 clc;
 
 %% PMSM parameters
-Ld = 0.0002;  % D-axis inductance
-Lq = 0.0002;  % Q-axis inductance
-Rs = 0.013;
-Lambda_m = 0.03;
-PM = Lambda_m;
+%Ld = 0.0002;  % D-axis inductance
+%Lq = 0.0002;  % Q-axis inductance
+%Rs = 0.013;
+%Lambda_m = 0.03;
+%PM = Lambda_m;
 Polepairs = 7;
 N = Polepairs;
-L0 = 0.00018; % Zero-sequence inductance
-J = 0.2;
+%L0 = 0.00018; % Zero-sequence inductance
+%J = 0.2;
 
 %% Time constants
 Tsc = 5e-5;
