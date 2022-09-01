@@ -10,3 +10,6 @@
 
 ## pwm signal
 ![Alt text](https://github.com/hidayetersindursun/bldc_control/blob/main/results/pwm.png "pwm signal")
+
+## controller output
+![Alt text](https://github.com/hidayetersindursun/bldc_control/blob/main/results/results.png "controller output")
