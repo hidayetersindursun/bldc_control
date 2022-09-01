@@ -10,3 +10,11 @@
 
 ## pwm signal
 ![Alt text](https://github.com/hidayetersindursun/bldc_control/blob/main/results/pwm.png "pwm signal")
+
+## controller output
+
+The first graph represents the position control loop. 
+Second, it shows the speed controller outputs. 
+The last one indicates the torque behavior of the system.
+
+![Alt text](https://github.com/hidayetersindursun/bldc_control/blob/main/results/results.png "controller output")
