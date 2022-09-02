@@ -7,7 +7,7 @@ clc;
 Ld = 0.0004;  % H
 Lq = 0.0004;  % H
 Rs = 0.72;   % Ohm
-Polepairs = 7;
+Polepairs = 4;
 N = Polepairs;
 J = 2.31e-3;   % kg*m^2
 kTorque = 14.7;   % mN*m/A
