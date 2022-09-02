@@ -4,8 +4,8 @@ bdclose all;
 clc;
 
 %% PMSM parameters
-Ld = 330e-6;  % H
-Lq = 330e-6;  % H
+Ld = 0.0004;  % H
+Lq = 0.0004;  % H
 Rs = 0.72;   % Ohm
 Polepairs = 7;
 N = Polepairs;
