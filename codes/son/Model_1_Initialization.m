@@ -9,8 +9,8 @@ Lq = 0.0004;  % H
 Rs = 0.72;   % Ohm
 Polepairs = 4;
 N = Polepairs;
-J = 2.31e-3;   % kg*m^2      7.061551833333e-06
-kTorque = 25.5816607476;   % mN*m/A    0.0255816607475711 N*m/A
+J =  2.31e-3;   % kg*m^2      7.061551833333e-06
+kTorque = 25.5816607476;   % mN*m/A    
 PM = 0.03;     % 0.00639541518689279 Wb
 
 %% Time constants
