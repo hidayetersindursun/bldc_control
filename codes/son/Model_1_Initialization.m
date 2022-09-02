@@ -6,7 +6,7 @@ clc;
 %% PMSM parameters
 Ld = 330e-6;  % H
 Lq = 330e-6;  % H
-Rs = 0.03;   % Ohm
+Rs = 0.72;   % Ohm
 Polepairs = 7;
 N = Polepairs;
 J = 2.31e-3;   % kg*m^2
