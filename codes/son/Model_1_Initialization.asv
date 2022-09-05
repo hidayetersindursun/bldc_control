@@ -11,7 +11,7 @@ Polepairs = 4;
 N = Polepairs;
 J =  2.31e-3;   % kg*m^2      7.061551833333e-06  eski değer : 2.31e-3
 kTorque = 25.5816607476;   % mN*m/A    
-kBack_emf = 0.00464; % V/rpm
+kBack_emf = 0.00464;  
 %PM = 0.03;     % 0.00639541518689279 Wb
 
 %% Time constants
