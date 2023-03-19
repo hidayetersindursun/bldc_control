@@ -1,4 +1,4 @@
-# bldc_control
+# BLDC Motor Control by using FOC method
 
 ## Controller Output
 
